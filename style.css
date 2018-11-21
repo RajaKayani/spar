@@ -1,0 +1,10 @@
+body {
+	background: lime;
+}
+.red {
+	color: red;
+}
+#mainHeading {
+	font-family: sans-serif;
+	color: blue;
+}
